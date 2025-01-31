@@ -9,4 +9,4 @@ To queue a job using Slurm, use:
 
 **`sbatch slurm-template.sh`** 
 
-The `slurm-template.sh` is a configuration file containing the actual command(s) you want to run.
+The `slurm-template.sh` is a configuration file containing the actual command(s) you want to run, and [it can be found here](https://github.com/ProtistomicsLab/manuals/blob/main/slurm-template.sh).
